@@ -7,7 +7,7 @@ You will need a Pro level license for Pi Toolbox to open the generated ASCII fil
 
 Usage: Bosch2Pi <data_file> [-namemap <name_map_file>] [-outinginfo <outing_file>] [-constants <constants_file>] [-lapctr <lap_column_name>]
 
-The namemap file allows you to change the name of telemetry channels during the conversion process.  A sample file is included and it is a simply name:value pair
+The namemap file allows you to change the name of telemetry channels during the conversion process.  A sample file is included and it is a simple name:value pair
 to denote the old and new name of the channel.
 
 The outinginfo file allows you to add outing properties to the new file such as car name, driver name, and track.  The common Pi Toolbox items are included in the 
