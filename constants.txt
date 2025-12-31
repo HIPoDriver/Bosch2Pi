@@ -1,0 +1,21 @@
+Fuel Capacity: 120 #liters
+Wheelbase: 2703 #mm
+Width: 1949 #mm
+MR_Front: 1.34
+MR_Rear: 1.1
+RideHeight_F: 93 #min ride height from manual in mm
+RideHeight_R: 102 #min ride height from manual in mm
+FrontARB: 1
+RearARB: 1
+Spring_Front: 260 #N/mm
+Spring_Rear: 110 #N/mm
+Steering_Ratio: 13.3
+TireCirc_Front: 2.025 #m?
+TireCirc_Rear: 2.105 #m?
+Gear_1: 4.714
+Gear_2: 3.143
+Gear_3: 2.106
+Gear_4: 1.667
+Gear_5: 1.285
+Gear_6: 1.0
+Final_Drive: 2.93

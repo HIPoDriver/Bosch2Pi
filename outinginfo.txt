@@ -1,0 +1,10 @@
+CarName: 8
+DriverName: Mike
+TrackName: Road Atlanta
+ShortComment: Aston Martin Vantage
+LongComment: Driving car to grid
+#SessionNumber:1
+#OutingNumber:2
+#EngineTest:TRUE
+#Foo:
+#Bar:
